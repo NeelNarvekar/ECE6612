@@ -1,0 +1,19 @@
+3 unique devices found in 0.8760886351267497 minutes
+3/3 devices respond to requests
+GATT : 1
+MAP MAS-iOS : 1
+PAN Network Access Profile : 1
+Wireless iAP v2 : 1
+Wireless iAP : 2
+AVRCP Device : 2
+Audio Source : 1
+Phonebook : 1
+Handsfree Gateway : 1
+Generic ATT : 1
+Serial Port Service - Channel 1 : 1
+AAP Server : 1
+SPP Server : 1
+Handsfree : 1
+AVRCP Target : 1
+AVRCP Controller : 1
+Audio Sink : 1
